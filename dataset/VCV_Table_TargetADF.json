@@ -1,5 +1,5 @@
 {
-	"name": "VCV_Table_TEST",
+	"name": "VCV_Table_TargetADF",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "VCVTableStorage1",
