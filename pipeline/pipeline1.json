@@ -17,11 +17,6 @@
 				"typeProperties": {
 					"source": {
 						"type": "AzureTableSource",
-						"additionalColumns": [
-							{
-								"value": "$$COLUMN:"
-							}
-						],
 						"azureTableSourceIgnoreTableNotFound": false
 					},
 					"sink": {
@@ -47,7 +42,7 @@
 				],
 				"outputs": [
 					{
-						"referenceName": "VCV_Table_TEST",
+						"referenceName": "VCV_Table_TargetADF",
 						"type": "DatasetReference"
 					}
 				]
