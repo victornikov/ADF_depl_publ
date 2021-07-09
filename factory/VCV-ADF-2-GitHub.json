@@ -1,0 +1,9 @@
+{
+	"name": "VCV-ADF-2-GitHub",
+	"location": "germanywestcentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "35055a8c-7807-48d0-8bc8-b868606ba011",
+		"tenantId": "2638f43e-f77d-4fc7-ab92-7b753b7876fd"
+	}
+}
