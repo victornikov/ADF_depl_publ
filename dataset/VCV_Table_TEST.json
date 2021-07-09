@@ -1,0 +1,12 @@
+{
+	"name": "VCV_Table_TEST",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "VCVTableStorage1",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureTable",
+		"schema": []
+	}
+}
