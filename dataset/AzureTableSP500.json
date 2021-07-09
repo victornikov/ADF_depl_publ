@@ -1,0 +1,16 @@
+{
+	"name": "AzureTableSP500",
+	"properties": {
+		"description": "SP500 companies",
+		"linkedServiceName": {
+			"referenceName": "VCVTableStorage1",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureTable",
+		"schema": [],
+		"typeProperties": {
+			"tableName": "sp500"
+		}
+	}
+}
