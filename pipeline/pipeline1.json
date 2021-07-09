@@ -3,7 +3,8 @@
 	"properties": {
 		"activities": [
 			{
-				"name": "Copy_FF250",
+				"name": "Copy_SP500",
+				"description": "copy storage table to storage table",
 				"type": "Copy",
 				"dependsOn": [],
 				"policy": {
