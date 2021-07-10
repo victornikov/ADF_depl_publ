@@ -1,0 +1,8 @@
+{
+	"name": "OracleServiceCloudObject1",
+	"properties": {
+		"annotations": [],
+		"type": "OracleServiceCloudObject",
+		"schema": []
+	}
+}
