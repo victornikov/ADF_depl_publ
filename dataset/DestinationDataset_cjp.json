@@ -1,0 +1,17 @@
+{
+	"name": "DestinationDataset_cjp",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "vcvsubnet_BlobContainer",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Binary",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobStorageLocation",
+				"container": "vcv-test"
+			}
+		}
+	}
+}
