@@ -1,5 +1,5 @@
 {
-	"name": "CSV_Bank",
+	"name": "CSV_Bank_Source",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "vcvsubnet_BlobContainer",
