@@ -1,0 +1,24 @@
+{
+	"name": "night_check_1_45",
+	"properties": {
+		"annotations": [],
+		"runtimeState": "Started",
+		"pipelines": [
+			{
+				"pipelineReference": {
+					"referenceName": "ML_Copy_bank_scv",
+					"type": "PipelineReference"
+				}
+			}
+		],
+		"type": "ScheduleTrigger",
+		"typeProperties": {
+			"recurrence": {
+				"frequency": "Day",
+				"interval": 1,
+				"startTime": "2021-09-11T01:45:00Z",
+				"timeZone": "UTC"
+			}
+		}
+	}
+}
