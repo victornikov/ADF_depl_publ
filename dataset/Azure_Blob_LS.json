@@ -1,0 +1,8 @@
+{
+	"name": "Azure_Blob_LS",
+	"properties": {
+		"annotations": [],
+		"type": "OracleServiceCloudObject",
+		"schema": []
+	}
+}
